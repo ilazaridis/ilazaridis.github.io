@@ -1,5 +1,5 @@
 ---
-excerpt: Useful tip to create an array of array
+excerpt: Useful tip to create an array of arrays
   
 categories:
   - php
