@@ -6,7 +6,7 @@ categories:
 ---
 
 It's something already [officially documented](http://php.net/manual/en/function.array-map.php#example-5621)
-but usually overlooked that's why I put it here for anyone including me ;).
+but usually overlooked that's why I put it here for anyone including myself ;).
 
 ```php
 $a = [1, 2, 3, 4, 5];
