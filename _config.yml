@@ -7,6 +7,8 @@
 
 minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
+remote_theme             : "mmistakes/minimal-mistakes"
+
 # Site Settings
 locale                   : "en"
 title                    : "Monkey stuff"
