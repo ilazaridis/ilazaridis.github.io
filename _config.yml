@@ -1,3 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes
 title: What about that
 description: Bookmark this to keep an eye on my project updates!
+plugins:
+  - jekyll-include-cache
